@@ -1,0 +1,16 @@
+#movie_folder{
+	float:left;
+}
+#movie_folder img:hover{
+	padding:0px;
+	margin:0px;
+	opacity:0.6;
+	background-color:#ccc;
+}
+#movie_folder a{
+	text-decoration:none;
+	color:#000;
+}
+#movie_folder a:hover{
+	color:#03F;
+}
